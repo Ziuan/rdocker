@@ -1,8 +1,10 @@
+## R Docker Images
+
 _Based on https://github.com/jaehyeon-kim/r-docker_
 
 - **r-min:**
   - [x] Ubuntu 16.04
-  - [x] apt packages: `r-base, r-base-dev`
+  - [x] apt packages: `r-base r-base-dev`
   - **r-basic:**
     - [x] apt packages: `libssh-dev libssh2-1-dev libcurl4-openssl-dev libxml2-dev`
     - [x] R packages: devtools
